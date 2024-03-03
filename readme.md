@@ -1,0 +1,1 @@
+The project has a good documentation structure and comments for easy reading and understanding by other developers
